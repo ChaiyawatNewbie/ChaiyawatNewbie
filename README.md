@@ -22,7 +22,7 @@
 - 🌱 **I’m currently learning:** Penetration Testing & Network Security
 - 📍 **Location:** HatYai, Thailand 🇹🇭
 - 💬 **Ask me about:** Web Dev, DDoS Protection, Cybersecurity
-- 📫 **Contact:** chaiyawat@example.com
+- 📫 **Contact:** Discord: p09p
 
 <br/>
 

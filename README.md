@@ -19,9 +19,9 @@
 ผมเป็นนักพัฒนาที่สนใจ Cybersecurity และ Web Development (Node.js, MongoDB)
 
 - 🔭 **I’m currently working on:** Farm Management System & Roblox Games
-- 🌱 **I’m currently learning:** Go (Golang), Penetration Testing
+- 🌱 **I’m currently learning:** Penetration Testing & Network Security
 - 📍 **Location:** HatYai, Thailand 🇹🇭
-- 💬 **Ask me about:** Web Dev, Arduino, DDoS Protection
+- 💬 **Ask me about:** Web Dev, DDoS Protection, Cybersecurity
 - 📫 **Contact:** chaiyawat@example.com
 
 <br/>
@@ -33,8 +33,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 </td>

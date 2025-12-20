@@ -15,9 +15,10 @@
 ### 👨‍💻 About Me
 
 *สวัสดีครับ! ผมชื่อ ชัยวัฒน์ (PPChaiyawat)*
+
 ผมเป็นนักพัฒนาที่สนใจ Cybersecurity และ Web Development (Node.js, MongoDB)
 
-- 🔭 **I’m currently working on:** Farm Management System & Roblox Games
+- 🔭 **I’m currently working on:** AMP host server game & Web Hosting
 - 🌱 **I’m currently learning:** Penetration Testing & Network Security
 - 📍 **Location:** HatYai, Thailand 🇹🇭
 - 💬 **Ask me about:** Web Dev, DDoS Protection, Cybersecurity

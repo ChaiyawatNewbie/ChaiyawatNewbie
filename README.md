@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+PPChaiyawat+👋;Full+Stack+Developer;From+HatYai,+Thailand" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+PPChaiyawat+👋;Full+Stack+Developer;From+HatYai,+Thailand" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-*สวัสดีครับ! ผมชื่อ ชัยวัฒน์ (PPChaiyawat)* ☕
+*สวัสดีครับ! ผมชื่อ ชัยวัฒน์ (PPChaiyawat)* > **"I turn coffee into code"** ☕
 
 ผมเป็นนักพัฒนาที่สนใจ Cybersecurity และ Web Development (Node.js, MongoDB)
 
@@ -22,7 +22,7 @@
 - 🌱 **I’m currently learning:** Penetration Testing & Network Security
 - 📍 **Location:** HatYai, Thailand 🇹🇭
 - 💬 **Ask me about:** Web Dev, DDoS Protection, Cybersecurity
-- 📫 **Contact:** Discord: p09p
+- 📫 **Contact:** chaiyawat@example.com
 
 <br/>
 

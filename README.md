@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-*สวัสดีครับ! ผมชื่อ ชัยวัฒน์ (PPChaiyawat)*
+*ผมชื่อ ชัยวัฒน์ (PPChaiyawat)*
 
 ผมเป็นนักพัฒนาที่สนใจ Cybersecurity และ Web Development (Node.js, MongoDB)
 
